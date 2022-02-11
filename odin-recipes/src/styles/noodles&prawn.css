@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+}
+
+body {
+    background-color: #ffe5d9;
+    width: 800px;
+    margin-top: 50px;
+    margin-left: 400px;
+}
+
+.multiple-noodles{
+width: 300px;
+align-content: center;
+}
