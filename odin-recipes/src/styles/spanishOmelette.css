@@ -11,11 +11,12 @@ body {
     margin-left: 400px;
 }
 
-.multiple-noodles {
-width: 300px;
-margin-left: 250px;
-border:3px solid grey ;
-border-radius: 20px;
+.omelette {
+    width: 300px;
+    height: 250px;
+    margin-left: 250px;
+    border:3px solid grey ;
+    border-radius: 20px;
 }
 
 h3 {
@@ -28,14 +29,11 @@ p {
     font-size: 18px;
 }
 
-.tip {
-   margin-left: 20px;
-}
-
 li {
     text-align: justify;
     font-size: 18px;
 }
+
 .return {
     font-size: 18px;
     margin-top: 20px;
